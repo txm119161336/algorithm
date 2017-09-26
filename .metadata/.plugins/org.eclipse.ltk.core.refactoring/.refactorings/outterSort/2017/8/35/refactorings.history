@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;TestDP/src/com.pingan.test.tree.losertree&apos;&#x0D;&#x0A;- Original project: &apos;outterSort&apos;&#x0D;&#x0A;- Destination element: &apos;TestDP/src/com.pingan.test.tree.losertree&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     test.java&#x0D;&#x0A;     generateData.java&#x0D;&#x0A;     main.java" description="Copy files" destination="=TestDP/src&lt;com.pingan.test.tree.losertree" element1="test.java" element2="generateData.java" element3="main.java" files="3" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1503909969957" units="0" version="1.0"/>
+</session>
