@@ -1,10 +1,12 @@
-package com.pinganfu.test.dp;
+package com.pinganfu.test.sort;
 /*
   ResultSet.java     0.0.1 2013/04/04 
  * Copyright(C) 2013 db-iir RUC. All rights reserved. 
  */
 import java.util.ArrayList;
 import java.util.List;
+
+import com.pinganfu.test.dp.Result;
 
 /** 
  * This Class implements the loser tree algorithm.

@@ -1,4 +1,4 @@
-package com.pinganfu.test.dp;
+package com.pinganfu.test.sort;
 import java.util.ArrayList;
 
 public class TournamentSort {

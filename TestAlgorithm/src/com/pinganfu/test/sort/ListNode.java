@@ -1,4 +1,4 @@
-package com.pinganfu.test.dp;
+package com.pinganfu.test.sort;
 public  class ListNode//��node���洢������������еĽڵ㣬������������ݺ������������е�ID
 	{
 		public int data;

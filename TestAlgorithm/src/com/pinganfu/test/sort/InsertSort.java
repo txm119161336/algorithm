@@ -1,4 +1,4 @@
-package com.pinganfu.test.dp;
+package com.pinganfu.test.sort;
 
 public class InsertSort {
 	
