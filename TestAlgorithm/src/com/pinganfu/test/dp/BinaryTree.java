@@ -3,7 +3,7 @@ package com.pinganfu.test.dp;
 
 public class BinaryTree {
  
- int data;      //���ڵ�����
+ int data;      //���ڵ����� 添加修改
  BinaryTree left;    //������
  BinaryTree right;   //������
  
