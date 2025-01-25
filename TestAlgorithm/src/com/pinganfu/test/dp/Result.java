@@ -10,6 +10,7 @@ public class Result implements Comparable<Result> {
 
 	@Override
 	public int compareTo(Result o) {
+		System.out.println("test time");
 		if (value.intValue() < o.value.intValue())
 			return -1;
 		else if (value.intValue() > o.value.intValue())
